@@ -1,4 +1,4 @@
-### Hi I am Danny aka Daniciany!
+## Hi I am Danny aka Daniciany!
 
 While others go outside and have fun doing nothing I sit in my room and code npm packages that no one needs... 
 
@@ -10,7 +10,7 @@ While others go outside and have fun doing nothing I sit in my room and code npm
 - React Native
 
 ### My projects
-[my packages](https://www.npmjs.com/settings/danician/packages)
+[my packages](https://www.npmjs.com/settings/danician/packages) <br>
 [web-organ](https://web-organ.netlify.app/).
 
 ### I am currently working on...
