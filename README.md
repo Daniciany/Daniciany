@@ -1,4 +1,4 @@
-## Hi I am Danny <font size="10">aka Daniciany<font>!
+## Hi I am Danny, aka Daniciany!
 
 While others go outside and have fun doing nothing I sit in my room and code npm packages that no one needs... 
 
