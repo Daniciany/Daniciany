@@ -10,7 +10,7 @@ While others go outside and have fun doing nothing I sit in my room and code npm
 
 ### My projects
 [my packages](https://www.npmjs.com/settings/danician/packages) <br>
-[web-organ](https://web-organ.netlify.app/).
+[web-organ](https://web-organ.netlify.app/)
 
 ### I am currently working on...
 - A billion dollar app, of course! 😄
