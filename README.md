@@ -2,13 +2,9 @@
 
 While others go outside and have fun doing nothing I sit in my room and code npm packages that no one needs... 
 
-### Tech that I use
+### Languages
 - JavaScript
 - Python
-
-<br>
-- React.js
-- React Native
 
 ### My projects
 [my packages](https://www.npmjs.com/settings/danician/packages) <br>
