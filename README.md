@@ -1,4 +1,5 @@
-## Hi I am Danny, aka Daniciany!
+## Hi I am Danny!
+#### aka Daniciany or Danician
 
 While others go outside and have fun doing nothing I sit in my room and code npm packages that no one needs... 
 
