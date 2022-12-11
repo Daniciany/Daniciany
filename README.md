@@ -19,6 +19,7 @@ While others go outside and have fun doing nothing I sit in my room and code npm
 
 
 ### I am currently learning...
+- C++
 - Kotlin (android app development)
 
 <!--
