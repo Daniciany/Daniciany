@@ -14,8 +14,7 @@ While others go outside and have fun doing nothing I sit in my room and code npm
 [country code npm package](https://coodes.netlify.app)
 
 ### I am currently working on...
-- A billion dollar app, of course! 😄
-- A personal portfolio 😂
+- no project. I'm sad
 
 
 ### I am currently learning...
