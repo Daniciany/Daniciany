@@ -15,7 +15,7 @@ While others go outside and have fun I sit in my room and code npm packages that
 [country code npm](https://coodes.netlify.app)
 
 ### I am currently working on...
-- no project. I'm sad
+- side projects (not woth mentioning)
 
 
 ### I am currently learning...
