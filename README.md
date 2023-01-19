@@ -15,7 +15,7 @@ While others go outside and have fun I sit in my room and code npm packages that
 [country code npm](https://coodes.netlify.app)
 
 
-(https://github.r2v.ch/codewars?user=TheCodemaster.py&stroke=#ff0)
+[Codewars](https://www.codewars.com/users/TheCodemaster.py/badges/large)
 
 ### I am currently working on...
 - side projects (not woth mentioning)
