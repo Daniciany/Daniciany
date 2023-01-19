@@ -14,8 +14,8 @@ While others go outside and have fun I sit in my room and code npm packages that
 [web-organ](https://web-organ.netlify.app/) <br>
 [country code npm](https://coodes.netlify.app)
 
-
-[Codewars](https://www.codewars.com/users/TheCodemaster.py/badges/large)
+![Codewars](https://www.codewars.com/users/TheCodemaster.py/badges/large)<br>
+[Danician - Codewars](https://www.codewars.com/users/TheCodemaster.py)
 
 ### I am currently working on...
 - side projects (not woth mentioning)
