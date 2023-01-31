@@ -17,7 +17,7 @@ While others go outside and have fun I sit in my room and code npm packages that
 [Danician - Codewars](https://www.codewars.com/users/TheCodemaster.py)
 
 ### I am currently working on...
-- side projects (not woth mentioning)
+- An android mobile app for musicians
 
 
 ### I am currently learning...
