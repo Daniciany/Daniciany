@@ -7,6 +7,7 @@ While others go outside and have fun I sit in my room and code npm packages that
 ### Languages
 - JavaScript
 - Python
+- kotlin
 
 ### My projects
 [my packages](https://www.npmjs.com/settings/danician/packages) <br>
