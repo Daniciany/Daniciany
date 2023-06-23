@@ -2,7 +2,7 @@
 #### aka Daniciany or Danician
 
 
-While others go outside and have fun I sit in my room and code npm packages that no one needs... 
+While others go outside and have fun I sit in my room and code stuff that no one needs... 
 
 ### Languages
 - Kotlin
