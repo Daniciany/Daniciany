@@ -11,7 +11,6 @@ While others go outside and have fun I sit in my room and code stuff that no one
 - C++
 
 ### My projects
-[my packages](https://www.npmjs.com/settings/danician/packages) <br>
 [web-organ](https://web-organ.netlify.app/) <br>
 [country code npm](https://coodes.netlify.app)
 
@@ -24,6 +23,7 @@ While others go outside and have fun I sit in my room and code stuff that no one
 
 ### I am currently learning...
 - Kotlin (android app development)
+- C++
 
 <!--
 **Daniciany/Daniciany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
